@@ -1,0 +1,33 @@
+# Nested build directory
+build/
+
+# CLion project configuration
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# VS Code config files
+.vscode/
+
+.vs/CMake Overview
+.vs/cmake.db
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/Learning_2/v16/.suo
+.vs/Learning_2/v16/Browse.VC.db
+.vs/Learning_2/v16/ipch/AutoPCH/1cd613ed4951f5c9/4.5.1.SPEEDTEST.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/2a480c29a56846f4/3TRASH.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/4dfda00d542a4e0/2.3.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/565525549a3c644d/MIN_SEC.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/60d3130992d94483/3.9TRASH.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/78b5721f238b64e7/4.7.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/8374694178873f73/4.2.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/8ab8a41f2df0b3dd/4.5.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/8e3c76c925b7eafd/3.7TRASH.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/927b851f321531be/4.4.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/ad65e086e216c4a5/5.1TRASH.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/b21b49f2f330bc56/5.2TRASH.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/b7da497cdd3fc95c/DIVIDE.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/d49e6a103f80be92/WHEAT.ipch
+.vs/Learning_2/v16/ipch/AutoPCH/ffaf897020769284/CONVERY.ipch
